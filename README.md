@@ -19,7 +19,7 @@ This project analyzes 10,000 wine reviews by variety, country, price, and rating
 
 ## 🔗 Live Dashboard
 
-👉 [View the Tableau Dashboard]([https://public.tableau.com/app/profile/sinjini.mitra/viz/WineReviewInsightsDashboardPricePointsandPopularVarieties/Dashboard1])
+👉 [View the Tableau Dashboard](https://public.tableau.com/app/profile/sinjini.mitra/viz/WineReviewInsightsDashboardPricePointsandPopularVarieties/Dashboard1)
 
 ---
 
