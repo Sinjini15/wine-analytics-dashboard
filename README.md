@@ -39,3 +39,21 @@ This project analyzes 10,000 wine reviews by variety, country, price, and rating
 ├── Scripts # Optional modeling extension (e.g., churn/recsys) 
 ├── 02_feature_modeling.sql (.sql file to combine tables)
 ├── README.md # You are here
+
+
+
+---
+
+## 🚀 Getting Started
+
+To run the local scripts:
+
+1. Clone the repo:
+```bash
+git clone https://github.com/YOUR_USERNAME/wine-analytics-dashboard.git
+cd wine-analytics-dashboard
+```
+2. Create SQLite DB
+
+   ```sqlite3 wine_reviews.db < create_tables.sql```
+
